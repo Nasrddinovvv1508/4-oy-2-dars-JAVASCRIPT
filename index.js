@@ -13,36 +13,36 @@
 
 
     // 2-MASALA
-let weekDays = prompt();
+// let weekDays = prompt();
 
-if (weekDays > 7) {
-    alert(`Bunday hafta kuni mavjud emas`)
-}
+// if (weekDays > 7) {
+//     alert(`Bunday hafta kuni mavjud emas`)
+// }
 
-if (weekDays == 1) {
-    alert(`Dushanba`)
-} 
+// if (weekDays == 1) {
+//     alert(`Dushanba`)
+// } 
 
-if (weekDays == 2) {
-    alert(`Seshanba`)
-}
+// if (weekDays == 2) {
+//     alert(`Seshanba`)
+// }
 
-if (weekDays == 3) {
-    alert(`Chorhsanba`)
-}
+// if (weekDays == 3) {
+//     alert(`Chorhsanba`)
+// }
 
-if (weekDays == 4) {
-    alert(`Payshanba`)
-}
+// if (weekDays == 4) {
+//     alert(`Payshanba`)
+// }
 
-if (weekDays == 5) {
-    alert(`Juma`)
-}
+// if (weekDays == 5) {
+//     alert(`Juma`)
+// }
 
-if (weekDays == 6) {
-    alert(`Shanba`)
-}
+// if (weekDays == 6) {
+//     alert(`Shanba`)
+// }
 
-if (weekDays == 7) {
-    alert(`Yakshanba`)
-}
+// if (weekDays == 7) {
+//     alert(`Yakshanba`)
+// }
